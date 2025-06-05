@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FcqgS0smWkijeWiBBgIBcg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/content" CVScreenId="cdddcac2-7303-42c8-9457-f5a0a2a73fff" CvTextArea="654, 266, 154, 30" CvTextArgument="Precipitation" CvType="Text" DesignTimeRectangle="656, 260, 153, 38" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Precipitation' tag='SPAN' /&gt;" Guid="a8268342-2171-44c2-90f3-3e32543f15d2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Farm Land' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="20b5f9656e55f3ffcbfc19ca0f08cd10.png" xmlns="">0kw4H0QRl0EuTi45bgqcZqg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

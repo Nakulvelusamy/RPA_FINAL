@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CGpXdily80G829ksz2nang" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/contact" CVScreenId="fcc03eda-ef99-4a12-a760-bbb63a141446" CvElementArea="784, 530, 350, 71" CvTextArea="860, 552, 235, 30" CvTextArgument="Vegetation Indices" CvType="Button" DesignTimeRectangle="789, 533, 343, 65" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname=' Vegetation Indices' tag='BUTTON' /&gt;" Guid="e708f695-7319-4e19-bb11-173e23964564" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Farm Land' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="81c041099416d2c031e21e6014f4c256.png" xmlns="">0KV5kZwIQB0OUL2Hs0ld-sg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

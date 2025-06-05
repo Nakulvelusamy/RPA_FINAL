@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="E4aYQ20nAUy-LCQLORdkbg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/content" CVScreenId="36e535f4-dabd-4f74-869e-d85d97382381" CvElementArea="509, 532, 699, 82" CvType="InputBox" DesignTimeRectangle="510, 533, 698, 79" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="6073751b-e24f-43c3-b3ce-8485fa78b866" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Farm Land' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="a7a0ba874fab9f8b9028dbef327532f2.png" xmlns="">0a_IKyYZmWkO4KUg8L7insA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
